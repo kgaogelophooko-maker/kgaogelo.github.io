@@ -37,6 +37,16 @@ div {
   border-radius: 50%;
   object-fit: cover;
 }
+.white-link {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.white-link:hover {
+  color: #007acc;
+}
+
 
 
 footer {
